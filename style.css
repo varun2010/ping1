@@ -1,0 +1,22 @@
+.heading{
+    font-size: xx-large;
+    width:100%;
+    font-weight: 800;
+    color:blueviolet;
+}
+.heading:hover{
+    font-size: xx-large;
+    width:100%;
+    font-weight: 800;
+    color:blueviolet;
+}
+.rules{
+    font-size: xx-large;
+    float:right;
+}
+.big_image{
+    width:100%;
+}
+.game{
+    font-size: 22px;
+}
